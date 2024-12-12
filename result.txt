@@ -91,5 +91,4 @@ tests/test_urls.py::test_blog_urls PASSED                                       
 tests/test_urls.py::test_pages_urls PASSED                                                                                                                          [ 98%]
 tests/test_urls.py::test_blogicum_urls PASSED                                                                                                                       [100%]
 
-=================================================================== 82 passed, 1619 warnings in 2.20s ====================================================================
-(.venv) PS D:\Vivt\Prikladnoe_prog\Blogikum_10>
+==================================================================== 82 passed, 845 warnings in 2.27s ====================================================================
